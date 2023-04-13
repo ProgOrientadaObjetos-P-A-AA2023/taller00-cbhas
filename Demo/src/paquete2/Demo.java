@@ -8,7 +8,7 @@ public class Demo {
     public static void main(String[] args) {
 
         System.out.printf("%s con %d\n",
-                Mensaje.obtenerFrase(), 
+                Mensaje.obtenerFrase(),
                 Valor.obtenerHabitantes());
     }
 
