@@ -1,4 +1,4 @@
-- cbhas
+cbhas
 # taller00
 ## Generar una solución en el proyecto de Netbeans, que permita obtener a través de una sentencia printf, la siguiente salida:
 
